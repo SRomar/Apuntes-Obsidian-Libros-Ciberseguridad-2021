@@ -1,0 +1,1 @@
+- If the application generates usernames, try to obtain several in quick succession, and determine whether any sequence or pattern can be discerned.

@@ -4,12 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "b44bcfc52884ff38",
+        "id": "ec251bfec482d0ad",
         "type": "leaf",
+        "dimension": 35.752688172043015,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Forgotten Password.md",
+            "file": "Chapter 6 - Attacking Authentication/Insecure Distribution of Credentials.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "6c85670ec0225947",
+        "type": "leaf",
+        "dimension": 64.24731182795699,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Chapter 6 - Attacking Authentication/Use Strong Credentials.md",
             "mode": "source"
           }
         }
@@ -68,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Forgotten Password.md",
+                "file": "Chapter 6 - Attacking Authentication/Insecure Distribution of Credentials.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b44bcfc52884ff38",
+  "active": "ec251bfec482d0ad",
   "lastOpenFiles": [
-    "Forgotten Password.md",
-    "Design Flaws in Authentication Mechanisms.md",
-    "Authentication Technologies.md",
+    "Chapter 6 - Attacking Authentication/Insecure Distribution of Credentials.md",
+    "User Impersonation Functionality.md",
+    "Securing Authentication.md",
+    "Use Strong Credentials.md",
     "Untitled.md",
-    "3XX.md",
-    "Transmitting Data Via the Client.md",
-    "Reverse Engineering Books.md",
-    "Disable Elements.md",
-    "Chapter 3 - Web Application Technologies/Common Status Codes.md",
-    "304 Not modified.md"
+    "Common Hashing Functions.md",
+    "Chapter 3 - Web Application Technologies/MD5.md",
+    "Authentication Technologies.md",
+    "Design Flaws in Authentication Mechanisms.md",
+    "Forgotten Password.md"
   ]
 }

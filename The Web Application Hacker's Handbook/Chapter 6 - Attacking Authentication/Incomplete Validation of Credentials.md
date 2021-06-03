@@ -1,0 +1,1 @@
+1. Using an account you control, attempt to log in with variations on your own password: removing the last character, changing the case of a character, and removing any special typographical characters. If any of these attempts is successful, continue experimenting to try to **understand what validation is actually occurring. **
