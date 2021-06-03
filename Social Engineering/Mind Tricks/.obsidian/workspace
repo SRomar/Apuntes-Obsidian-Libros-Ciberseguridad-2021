@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "dbe136070593c2d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "379e18324f33f47a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Attention Keepers.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "babfc2ca2933ecc9",
+    "type": "split",
+    "children": [
+      {
+        "id": "7037493289765070",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e313042955608621",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3a44a0b83148788c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a2aac063874aa251",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5f0deaa5ebdd6ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63fe4219013b5a6b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Attention Keepers.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "379e18324f33f47a",
+  "lastOpenFiles": [
+    "Attention Keepers.md",
+    "Answers.md",
+    "Alternative Approaches.md",
+    "Untitled.md",
+    "Interrogation Tactics.md",
+    "Goal.md",
+    "Attetion Keepers.md",
+    "Alternative Roots.md",
+    "Mind Tricks.md",
+    "Neurolinguistic Programming (NLP)/NLP.md"
+  ]
+}

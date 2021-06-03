@@ -1,0 +1,1 @@
+A social engineer offers new arguments that point to why their frame is better in an effort to transform the thoughts or beliefs of a target from where they are to where the social engineer wants them to be.

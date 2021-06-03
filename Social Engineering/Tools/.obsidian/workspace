@@ -1,0 +1,116 @@
+{
+  "main": {
+    "id": "520b9a81a0fd07da",
+    "type": "split",
+    "children": [
+      {
+        "id": "71179d32f1c2925e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Tools.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "385ae944d4e231eb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Telephone-based.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "352115748caff4fb",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "551afe99f25787ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f3c946936249bf4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21903a058c1046ff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "94eee3a2db5738ea",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "91e5da8a90aa2484",
+    "type": "split",
+    "children": [
+      {
+        "id": "d485e05e05b1c67e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00207021a9429aab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tools.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "71179d32f1c2925e",
+  "lastOpenFiles": [
+    "Tools.md",
+    "Telephone-based.md",
+    "Lock Picks.md",
+    "GPS.md",
+    "Untitled.md"
+  ]
+}

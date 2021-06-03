@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "5ffc7076287bb461",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e74dc89827a2c71",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Elicitation/Using Intelligent Questions/Assumptive Questions.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "47cabdbc7fefbc39",
+    "type": "split",
+    "children": [
+      {
+        "id": "70d895c554b61493",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebe43c9414f15ee9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "67d4e3a146647f2e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "749ec80d2433a626",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ad0595fd0f38f54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "831109961d60dc1b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Elicitation/Using Intelligent Questions/Assumptive Questions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1e74dc89827a2c71",
+  "lastOpenFiles": [
+    "Elicitation/Using Intelligent Questions/Assumptive Questions.md",
+    "Elicitation/Using Intelligent Questions/Closed-Ended Questions.md",
+    "Elicitation/Using Intelligent Questions/Intelligent Questions.md",
+    "Elicitation/Using Intelligent Questions/Leading Questions.md",
+    "Elicitation/Using Intelligent Questions/Open-Ended Questions.md",
+    "Information Gathering/Information Gathering.md",
+    "Information Gathering/The Communication Model.md",
+    "Information Gathering/Profiling Software.md",
+    "Persuasion/Uncertainty.md",
+    "Persuasion/Alignment.md"
+  ]
+}

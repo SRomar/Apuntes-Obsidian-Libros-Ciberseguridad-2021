@@ -1,0 +1,1 @@
+During content discovery, this usually indicates that the application** expects certain parameters** to be submitted when requesting the  resource.

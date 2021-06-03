@@ -1,0 +1,5 @@
+[[Clear Goals]]
+[[Rapport]]
+[[Observensense]]
+[[Flexibility]]
+[[Self-knowing]]

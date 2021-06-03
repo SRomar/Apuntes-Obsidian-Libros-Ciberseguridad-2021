@@ -1,0 +1,7 @@
+Short for Transfer Layer Security, TLS is basically an upgraded version of SSL. Beginning with TLS version 1.0, in the years since, several more versions have been released. The latest of TLS, 1.3, was released in 2018. Each successive version has had significant security upgrades, and are a far cry from the first version of SSL released way back in 1995.
+
+The term “SSL certificate” basically became an industry wide brand name that stuck. Although SSL has basically become obsolete, the name is synonymous with Internet security and encryption, even among less tech savvy individuals.  
+
+The argument about whether to call the SSL or TLS certificates, however, misses a crucial point. **This point is that the cryptographic protocol used to connect a website and browser is actually configured in the server and client settings, and not dictated by the certificate itself.** Installing an SSL certificate on your site facilitates authentication and validation, but not how a server and client go about doing it.
+
+While the SSL protocol and the TLS protocol are not the same thing, SSL certificates and TLS certificates do refer to the same thing. **It is a digital certificate you install on your server so that web browsers can connect with your site via HTTPS.** All modern SSL certificates should work by doing this via the TLS protocol. To ensure that your website is configured to use the latest version of TLS, check your server settings.

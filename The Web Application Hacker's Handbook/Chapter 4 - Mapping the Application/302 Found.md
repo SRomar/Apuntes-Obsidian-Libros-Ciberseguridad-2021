@@ -1,0 +1,1 @@
+If the redirect is to a login page, the resource may be accessible only authenticated users. if the redirect is to an error message, this may indicate a different reason. **If it is to another location, the redirect may be part of the application's intended logic, and this should be investigated further.**

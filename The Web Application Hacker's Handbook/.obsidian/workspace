@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "35e288ac80a2b16d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b44bcfc52884ff38",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Forgotten Password.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bf3435b94d581660",
+    "type": "split",
+    "children": [
+      {
+        "id": "99d84e9ca12759c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3b929d73720af3e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "df3150d4a39beb0f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 372.0036334991455
+  },
+  "right": {
+    "id": "7eae3e4701983101",
+    "type": "split",
+    "children": [
+      {
+        "id": "e12f98665de1e16a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e342e6c708f9b14",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Forgotten Password.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b44bcfc52884ff38",
+  "lastOpenFiles": [
+    "Forgotten Password.md",
+    "Design Flaws in Authentication Mechanisms.md",
+    "Authentication Technologies.md",
+    "Untitled.md",
+    "3XX.md",
+    "Transmitting Data Via the Client.md",
+    "Reverse Engineering Books.md",
+    "Disable Elements.md",
+    "Chapter 3 - Web Application Technologies/Common Status Codes.md",
+    "304 Not modified.md"
+  ]
+}

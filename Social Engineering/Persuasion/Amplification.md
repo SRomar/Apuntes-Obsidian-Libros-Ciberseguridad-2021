@@ -1,0 +1,1 @@
+You will a,plify, or focus on, the values or beliefs of the target. By focusiong on those values you can find an area that will allign your two frames, or at least drive the target to think is aligment.

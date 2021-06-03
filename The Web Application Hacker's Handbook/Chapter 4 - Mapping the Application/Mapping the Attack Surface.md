@@ -1,0 +1,19 @@
+- **Client-side validation** - Checks may not be replicated on the server
+- **Database interaction** - SQL injection
+- **File uploading and downloading** - Path traversal vulnerabilities
+- **Display of user-supplied data** - Cross-site scripting
+- **Dynamic redirects** - Redirection and header injection attacks
+- **Social networking features** - Username enumeration, stored cross-site scripting
+- **Login** - Username enumeration, weak passwords, ability to use brute force
+- **Multistage Login** - Logic flaws
+- **Session state** - Predictable tokens, insecure handling of tokens
+- **Access controls** - Horizontal and vertical privilege escalation
+- **User impersonation functions** - Privilege escalation
+- ** Use of cleartext communications** - Session hijacking, capture of credentials and other sensitive data
+- **Off-site links** - Leakage of query string parameters in the *Referer* header
+- **Interfaces to external systems** - Shortcuts in the handling of sessions and/or access controls
+- **Error Messages** - Information leakage
+- **E-mail interaction** - E-mail and/or command injection
+- **Native code components or interaction** - Buffer overflows
+- **Use of third-party applications components** -Know vulnerabilities
+- **Identifiable web server software** - Common configuration weaknesses, know software bugs

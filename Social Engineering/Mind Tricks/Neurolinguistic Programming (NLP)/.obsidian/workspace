@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "627b77ea15b111ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "898e0e0d0f0b74f1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "NLP.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4a15329be515cddd",
+    "type": "split",
+    "children": [
+      {
+        "id": "0520f3a86fe2f262",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a43c6f170a5b0a64",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1b9e52973d02053a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "832c618d41c3ddf7",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e76b353c196db68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2708682207c7c84",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "NLP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "898e0e0d0f0b74f1",
+  "lastOpenFiles": [
+    "NLP.md"
+  ]
+}

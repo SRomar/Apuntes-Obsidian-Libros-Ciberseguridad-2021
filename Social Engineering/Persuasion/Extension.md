@@ -1,0 +1,1 @@
+The possibility exists that groups who support environmental or "green" initiatives will extend their frame to antinuclear movements, stating they are under the umbrella of a being concerned about the enviromental risks.

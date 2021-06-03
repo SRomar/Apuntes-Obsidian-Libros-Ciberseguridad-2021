@@ -1,0 +1,3 @@
+ASP.NET is an ** server-side web application framework created by Microsoft ** that runs on Windows. ASP.NET allows developers to create **web applications, web services, and dynamic content-driven websites.**
+
+ASP.NET applications are **compiled**, which means the code is translated into object code, which is then executed. This compilation process takes a small amount of time, but happens only once. After compilation, the code can be executed over and over by the .Net platform very quickly.

@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "b0c51db0e8ed465e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f43c50fe27ffdb14",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Persuasion.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "414b0003f9a7f6f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "19d49955329d1b98",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ce18307d5024c5f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ff9b522d8b15b7c2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "12d4cbab82edccac",
+    "type": "split",
+    "children": [
+      {
+        "id": "142d35be8e8a0c23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e600965f07157ae9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Persuasion.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f43c50fe27ffdb14",
+  "lastOpenFiles": [
+    "Persuasion.md",
+    "Framing.md",
+    "Transformation.md",
+    "Extension.md",
+    "Amplification.md",
+    "Alignment.md",
+    "Social Proof.md",
+    "Similarity.md",
+    "Uncertainty.md",
+    "Social Authority.md"
+  ]
+}

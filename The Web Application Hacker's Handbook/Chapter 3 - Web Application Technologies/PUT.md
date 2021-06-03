@@ -1,0 +1,3 @@
+PUT method can be used to introduce malicious codes and shells to the target. If the web server has the PUT method available in the JBOSS server, it is possible to upload **JSP shells **that can be used to execute malicious commands to the server (Sutherland, 2011).
+
+Moreover, this method can be employed to launch a **phishing attack**. The attacker can upload an HTML page with hyperlinks that redirect a victim to the malicious website or a malicious login form that can collect user’s confidential information. 

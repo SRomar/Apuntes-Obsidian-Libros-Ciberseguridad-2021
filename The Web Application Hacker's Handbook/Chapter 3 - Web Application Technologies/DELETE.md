@@ -1,0 +1,1 @@
+DELETE method can be used to remove important files in the application, causing the denial of service or removal of access configuration files, such as “.htaccess” in an Apache server, to gain unauthorized access (SANS Institute, 2009).

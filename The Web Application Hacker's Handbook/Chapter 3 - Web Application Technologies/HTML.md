@@ -1,0 +1,1 @@
+HTML encoding is used to represent problematic characters so that they can be safely incorporated into an HTML document. 

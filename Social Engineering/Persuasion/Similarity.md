@@ -1,0 +1,1 @@
+People are more inclined to follow the lead of others who are similar to themselves. 

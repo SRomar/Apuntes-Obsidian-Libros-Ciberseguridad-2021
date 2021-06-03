@@ -1,0 +1,109 @@
+{
+  "main": {
+    "id": "e85426b0b28c86d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "00111202c1020fb8",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ccad4e1a26f6a8cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a87c27c7eeea9e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39b1131cacd56428",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "583d7e641a9a46ba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d045f438b2c974e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b760fe0d02577323",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6fe456b944f8e618",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "abd2ee04ba1afa2e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "00111202c1020fb8",
+  "lastOpenFiles": [
+    "2021-05-23.md",
+    "Social Engineering/Information Gathering/Backtrack.md",
+    "Social Engineering/Mind Tricks/Gesturing.md",
+    "The Pentester Blueprint/Certifications/Certifications.md",
+    "Social Engineering/Tools/Lock Picks.md",
+    "Social Engineering/Information Gathering/The Communication Model.md",
+    "Social Engineering/Information Gathering/Profiling Software.md",
+    "Social Engineering/Information Gathering/Preloading.md",
+    "Social Engineering/Information Gathering/Maltego.md",
+    "Social Engineering/Information Gathering/Google Dorks.md"
+  ]
+}

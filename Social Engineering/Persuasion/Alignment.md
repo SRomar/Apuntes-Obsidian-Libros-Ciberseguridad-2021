@@ -1,0 +1,5 @@
+
+[[Thoroughness]]
+[[Relationship]]
+[[Relevance]]
+[[Cycle]]

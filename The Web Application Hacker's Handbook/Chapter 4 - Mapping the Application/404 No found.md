@@ -1,0 +1,1 @@
+Do not assume that the application will respond with 200 OK and 404 Not Found if it does not. Many applications handle request for nonexistent resources in a customized way, often returning a bespoke error message and a 200 response code. Furthermore, some request for existent resources may receive a non-200 response. 
