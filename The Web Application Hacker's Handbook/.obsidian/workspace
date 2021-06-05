@@ -4,25 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ec251bfec482d0ad",
+        "id": "3f009758adb62e8c",
         "type": "leaf",
-        "dimension": 35.752688172043015,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chapter 6 - Attacking Authentication/Insecure Distribution of Credentials.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "6c85670ec0225947",
-        "type": "leaf",
-        "dimension": 64.24731182795699,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Chapter 6 - Attacking Authentication/Use Strong Credentials.md",
+            "file": "Untitled.md",
             "mode": "source"
           }
         }
@@ -81,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 6 - Attacking Authentication/Insecure Distribution of Credentials.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ec251bfec482d0ad",
+  "active": "3f009758adb62e8c",
   "lastOpenFiles": [
-    "Chapter 6 - Attacking Authentication/Insecure Distribution of Credentials.md",
-    "User Impersonation Functionality.md",
-    "Securing Authentication.md",
-    "Use Strong Credentials.md",
     "Untitled.md",
-    "Common Hashing Functions.md",
-    "Chapter 3 - Web Application Technologies/MD5.md",
-    "Authentication Technologies.md",
-    "Design Flaws in Authentication Mechanisms.md",
-    "Forgotten Password.md"
+    "Chapter 7 - Attacking Session Management/Attacking Sessions.md",
+    "Chapter 7 - Attacking Session Management/Alternatives to Sessions.md",
+    "Vulnerable Session Termination.md",
+    "Vulnerable Mapping of Tokens to Sessions.md",
+    "Client Exposure to Token Hijacking.md",
+    "Alternatives to Sessions.md",
+    "Weakness in Token Generation.md",
+    "Weak Random Number Generation.md",
+    "Encrypted Tokens.md"
   ]
 }

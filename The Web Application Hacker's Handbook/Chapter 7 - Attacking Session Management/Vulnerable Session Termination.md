@@ -1,0 +1,2 @@
+- In some cases, the logout function does not actually cause the server to invalidate the session. The server removes the token from the user's browser (set-cookie=""). However, if the user continues to submit the token, the server still accepts it.
+- Where a logout function is provided, test its effectiveness. After logging out, attempt to reuse the old token and determine whether it is still valid.

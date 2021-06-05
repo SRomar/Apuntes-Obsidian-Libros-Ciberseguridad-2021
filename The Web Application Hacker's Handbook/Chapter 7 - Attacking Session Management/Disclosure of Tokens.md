@@ -1,0 +1,3 @@
+Aside from the clear-text transmission of session tokens in network communications, **the most common place where tokens are simply disclosed to unauthorized view is in system logs of various kinds.**
+
+The other main cause of session tokens appearing in system logs is where an **application uses the URL query string as a mechanism for transmitting tokens**, as opposed to using HTTP cookies or the body of POST request.For example, Googling inurl:jsessionid identifies thousands of applications that transmit the Java platform session token (jsessionid) within the URL.

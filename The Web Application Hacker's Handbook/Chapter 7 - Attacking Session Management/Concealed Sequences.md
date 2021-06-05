@@ -1,0 +1,1 @@
+It is common to encounter session tokes that cannot be easily predicted when analyzed in their raw form but that contain sequences that reveal themselves when the tokens are suitably decoded or unpacked.
