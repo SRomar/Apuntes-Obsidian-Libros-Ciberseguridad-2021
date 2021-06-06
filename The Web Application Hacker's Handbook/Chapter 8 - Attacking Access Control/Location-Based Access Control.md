@@ -1,0 +1,4 @@
+- Proxy
+- VPN
+- Data roaming
+- Direct manipulation of client-side mechanism for geolocation.

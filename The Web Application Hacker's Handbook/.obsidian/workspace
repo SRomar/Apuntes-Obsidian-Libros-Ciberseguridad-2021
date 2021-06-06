@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "3f009758adb62e8c",
+        "id": "a5f3de65309c642d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "Attacking Access Controls.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Attacking Access Controls.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3f009758adb62e8c",
+  "active": "a5f3de65309c642d",
   "lastOpenFiles": [
+    "Attacking Access Controls.md",
+    "Testing with Different User Accounts.md",
+    "Chapter 8 - Attacking Access Control/Vertical Privilege Escalation.md",
+    "Testing with Differenet User Accounts.md",
+    "Questions to consider.md",
     "Untitled.md",
-    "Chapter 7 - Attacking Session Management/Attacking Sessions.md",
-    "Chapter 7 - Attacking Session Management/Alternatives to Sessions.md",
-    "Vulnerable Session Termination.md",
-    "Vulnerable Mapping of Tokens to Sessions.md",
-    "Client Exposure to Token Hijacking.md",
-    "Alternatives to Sessions.md",
-    "Weakness in Token Generation.md",
-    "Weak Random Number Generation.md",
-    "Encrypted Tokens.md"
+    "Vertical Privilege Escalation.md",
+    "Chapter 5 - Bypassing Client-Side Controls/Reverse Engineering Books.md",
+    "Business Logic Exploitation.md",
+    "Common Vulnerabilities.md"
   ]
 }

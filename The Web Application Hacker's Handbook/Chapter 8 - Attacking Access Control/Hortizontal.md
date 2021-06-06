@@ -1,0 +1,3 @@
+Allow users to access a certain subset of a wider range of **resources** of the same type. For example, a web mail application may allow you to read your e-mail, but no one else's, an online bank may transfer money out of your account only, and workflow application may allow you update task assigned yo you but only read task assigned to you but only read task assigned to other people.
+
+[[Horizontal Privilege Escalation]]

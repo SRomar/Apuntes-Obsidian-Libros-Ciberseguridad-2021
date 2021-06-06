@@ -1,0 +1,1 @@
+Occurs when a user can **perform functions** that this assigned role does not permit him to. For example, if an ordinary user can perform administrative functions, or a clerk can pay invoices of any size, access controls are broken.
