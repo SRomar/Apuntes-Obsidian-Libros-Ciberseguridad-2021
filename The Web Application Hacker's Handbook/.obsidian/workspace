@@ -4,23 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a5f3de65309c642d",
+        "id": "07c83cbc4e0cb2c1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chapter 8 - Attacking Access Control/Testing with Different User Accounts.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "e09d8c11ef9639f0",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Untitled.md",
+            "file": "Chapter 9 - Attacking Data Stores/Time delays.md",
             "mode": "source"
           }
         }
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Chapter 9 - Attacking Data Stores/Time delays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e09d8c11ef9639f0",
+  "active": "07c83cbc4e0cb2c1",
   "lastOpenFiles": [
+    "Time delays.md",
+    "LDAP.md",
+    "Conjunctive Queries.md",
+    "Disjunctive Queries.md",
+    "Simple Match Conditions.md",
     "Untitled.md",
+    "String Concatenation.md",
+    "Chapter 8 - Attacking Access Control/Testing with Different User Accounts.md",
     "Testing with Different User Accounts.md",
-    "Attacking Access Controls.md",
-    "Chapter 8 - Attacking Access Control/Vertical Privilege Escalation.md",
-    "Testing with Differenet User Accounts.md",
-    "Questions to consider.md",
-    "Vertical Privilege Escalation.md",
-    "Chapter 5 - Bypassing Client-Side Controls/Reverse Engineering Books.md",
-    "Business Logic Exploitation.md",
-    "Common Vulnerabilities.md"
+    "Attacking Access Controls.md"
   ]
 }

@@ -1,0 +1,1 @@
+Specify multiple conditions, all of which must be satisfied by entries that are returned. For example, a login mechanism implemented in LDAP might use this filter.

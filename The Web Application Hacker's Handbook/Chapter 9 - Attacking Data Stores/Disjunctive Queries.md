@@ -1,0 +1,1 @@
+Specify multiple conditions, any one of which must be satisfied by entries that are returned. For example, a search function that looks up user-supplied search term in several directory attributes might use this filter.

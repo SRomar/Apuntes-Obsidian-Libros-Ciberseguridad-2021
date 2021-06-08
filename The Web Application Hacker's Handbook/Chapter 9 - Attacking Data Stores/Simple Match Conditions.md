@@ -1,0 +1,1 @@
+Match on the value of a single attribute. For example, an application function that searches for a user via his username might use this filter.
