@@ -1,0 +1,1 @@
+Netcat is a utility capable of establishing a TCP or UDP connection between two computers, meaning it can write and read through an open port. With the help of the program, files can be transferred and commands can be executed in some instances.

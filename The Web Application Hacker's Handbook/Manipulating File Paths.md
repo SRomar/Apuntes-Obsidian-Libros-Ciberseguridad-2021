@@ -1,0 +1,4 @@
+If you have access to the web application, do the following:
+1. Use a suitable tool to monitor all filesystem activity on the server. For example, the [Process Monitor](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon) tools from SysInternals can be used on the Windows platform, the ltrace/strace tools can be used on Linux, and the truss command can be used on Sun's Solaris.
+2. Always try path traversal sequences using both forward slashes and backslashes.
+3. You can use illegal Unicode payload type within Burp intruder to generate a huge number of alternate representations of any given character and submit this at the relevant place within your target parameter.
