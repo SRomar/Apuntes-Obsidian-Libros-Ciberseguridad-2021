@@ -1,0 +1,4 @@
+1.  Look for locations where encryption is used in the application. Determine any locations where the application encrypts or **decrypts values supplied by a user**, and attempt to substitute any other encrypted values encountered within the application that reveals the decrypted value or where the decrypted value is purposely displayed on-screen.
+2.  Look for an "oracle reveal" vulnerability by determining where **an encrypted value can be supplied that results in the corresponding decrypted value's being displayed in the applicaiton's response.** Determine whether this leads to the disclosure of sensitive information, such as a password or credit card.
+3.  Look for an "oracle encrypt" vulnerability by determining where** supplying a clear-text value causes the application to return a corresponding encrypted value**. Determine where this can be abused by specifying arbitrary values, or malicious payloads that the application will process.
+4.  

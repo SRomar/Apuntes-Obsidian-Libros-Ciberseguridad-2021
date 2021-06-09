@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Manipulating File Paths.md",
+            "file": "Forced Browsing.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Manipulating File Paths.md",
+                "file": "Forced Browsing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "0195f65a2b16ac65",
   "lastOpenFiles": [
+    "Forced Browsing.md",
+    "Logic Flaws.md",
     "Untitled.md",
+    "Chapter 10 - Attacking Back-End Components/OS Command Injection.md",
+    "Chapter 10 - Attacking Back-End Components/IMAP.md",
     "Chapter 5 - Bypassing Client-Side Controls/ASP.NET.md",
     "TFTP.md",
     "SMTP.md",
     "IMAP.md",
-    "TCP-IP.md",
-    "POP3.md",
-    "TCP/IP.md",
-    "TCP]/IP.md",
-    "OS Command Injection.md"
+    "TCP-IP.md"
   ]
 }
