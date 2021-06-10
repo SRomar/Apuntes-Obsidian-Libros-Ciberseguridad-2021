@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Forced Browsing.md",
+            "file": "Chapter 11 -  Attacking Application Logic/Asking the Oracle.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Forced Browsing.md",
+                "file": "Chapter 11 -  Attacking Application Logic/Asking the Oracle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "0195f65a2b16ac65",
   "lastOpenFiles": [
+    "Asking the Oracle.md",
     "Forced Browsing.md",
     "Logic Flaws.md",
     "Untitled.md",
@@ -96,7 +97,6 @@
     "Chapter 5 - Bypassing Client-Side Controls/ASP.NET.md",
     "TFTP.md",
     "SMTP.md",
-    "IMAP.md",
-    "TCP-IP.md"
+    "IMAP.md"
   ]
 }
