@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "7582cdd9a708709a",
+        "id": "101bb9c8c157a5db",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "referer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7582cdd9a708709a",
+  "active": "101bb9c8c157a5db",
   "lastOpenFiles": [
+    "Chapter 12 - Cross-Site Scripting/DOM-based XSS.md",
+    "Chapter 12 - Cross-Site Scripting/Hybrid File Attacks.md",
+    "Identifying Reflections.md",
+    "Hybrid File Attacks.md",
+    "Untitled.md",
+    "Payloads.md",
     "Asking the Oracle.md",
     "Forced Browsing.md",
     "Logic Flaws.md",
-    "Untitled.md",
-    "Chapter 10 - Attacking Back-End Components/OS Command Injection.md",
-    "Chapter 10 - Attacking Back-End Components/IMAP.md",
-    "Chapter 5 - Bypassing Client-Side Controls/ASP.NET.md",
-    "TFTP.md",
-    "SMTP.md",
-    "IMAP.md"
+    "Chapter 10 - Attacking Back-End Components/OS Command Injection.md"
   ]
 }
