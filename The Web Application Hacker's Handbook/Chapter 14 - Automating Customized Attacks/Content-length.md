@@ -1,0 +1,1 @@
+if you write your own code to generate POST requests, **you need to include a valid Content-Length header **that specifies the actual length of the HTTP body in each request, as in the preceding code. If an invalid Content-Length is submitted, most web servers either truncate the data you submit or wait indefinitely for more data to be supplied.

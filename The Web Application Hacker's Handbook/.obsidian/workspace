@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "720a76b43085b151",
+        "id": "a81818bfafb3f6ee",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chapter 13 - Other Techniques/Same Origin Policy.md",
+            "file": "Chapter 14 - Automating Customized Attacks/Set-Cookie Header.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 13 - Other Techniques/Same Origin Policy.md",
+                "file": "Chapter 14 - Automating Customized Attacks/Set-Cookie Header.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,17 +94,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "720a76b43085b151",
+  "active": "a81818bfafb3f6ee",
   "lastOpenFiles": [
-    "Chapter 13 - Other Techniques/Same Origin Policy.md",
+    "Chapter 14 - Automating Customized Attacks/Set-Cookie Header.md",
+    "Chapter 14 - Automating Customized Attacks/Location Header.md",
     "Untitled.md",
-    "DNS Rebinding.md",
-    "HTML5-Storage Manipulation.md",
-    "Client-Side SQL Injection.md",
-    "HTTP Smuggling.md",
-    "Header Injection.md",
-    "Same Origin Policy.md",
+    "Chapter 13 - Other Techniques/DNS Rebinding.md",
+    "Chapter 13 - Other Techniques/Browser Exploitation Frameworks.md",
+    "Chapter 13 - Other Techniques/Request Forgery.md",
+    "Chapter 13 - Other Techniques/OSRF.md",
     "Chapter 13 - Other Techniques/CSRF.md",
-    "UI Redress.md"
+    "Chapter 13 - Other Techniques/Defeating Anti-CSRF.md",
+    "Chapter 13 - Other Techniques/Same Origin Policy.md"
   ]
 }

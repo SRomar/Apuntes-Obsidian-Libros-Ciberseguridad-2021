@@ -1,0 +1,1 @@
+Every login request might be met with the same redirection, but in the case of **valid credentials, the application sets a cookie containing a session token**. The content that the client receives when it follows the redirect depends on whether a valid session token is submitted.
