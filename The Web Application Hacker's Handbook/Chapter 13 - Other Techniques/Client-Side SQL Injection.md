@@ -1,0 +1,1 @@
+[DOM-based client-side SQL injection](https://portswigger.net/web-security/dom-based/client-side-sql-injection)

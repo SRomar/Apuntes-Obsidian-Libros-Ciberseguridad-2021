@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "101bb9c8c157a5db",
+        "id": "720a76b43085b151",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Chapter 13 - Other Techniques/Same Origin Policy.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,13 +39,21 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "referer",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "855128232f6b14cd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -65,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Chapter 13 - Other Techniques/Same Origin Policy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,17 +94,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "101bb9c8c157a5db",
+  "active": "720a76b43085b151",
   "lastOpenFiles": [
-    "Chapter 12 - Cross-Site Scripting/DOM-based XSS.md",
-    "Chapter 12 - Cross-Site Scripting/Hybrid File Attacks.md",
-    "Identifying Reflections.md",
-    "Hybrid File Attacks.md",
+    "Chapter 13 - Other Techniques/Same Origin Policy.md",
     "Untitled.md",
-    "Payloads.md",
-    "Asking the Oracle.md",
-    "Forced Browsing.md",
-    "Logic Flaws.md",
-    "Chapter 10 - Attacking Back-End Components/OS Command Injection.md"
+    "DNS Rebinding.md",
+    "HTML5-Storage Manipulation.md",
+    "Client-Side SQL Injection.md",
+    "HTTP Smuggling.md",
+    "Header Injection.md",
+    "Same Origin Policy.md",
+    "Chapter 13 - Other Techniques/CSRF.md",
+    "UI Redress.md"
   ]
 }
